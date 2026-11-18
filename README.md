@@ -1,4 +1,4 @@
-# Od-Telemiddle 📂
+# Odoo-Telemiddle 📂
 
 A lightweight middleware solution that decouples binary file storage from Odoo, offloading heavy media (images, PDFs, Excel sheets) from PostgreSQL directly into **Telegram Cloud Storage** via a private channel.
 
